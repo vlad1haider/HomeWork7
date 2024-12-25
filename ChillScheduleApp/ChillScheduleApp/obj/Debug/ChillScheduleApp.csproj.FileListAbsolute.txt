@@ -1,0 +1,16 @@
+C:\Users\vladc\source\repos\ChillScheduleApp\ChillScheduleApp\bin\Debug\ChillScheduleApp.exe.config
+C:\Users\vladc\source\repos\ChillScheduleApp\ChillScheduleApp\bin\Debug\ChillScheduleApp.exe
+C:\Users\vladc\source\repos\ChillScheduleApp\ChillScheduleApp\bin\Debug\ChillScheduleApp.pdb
+C:\Users\vladc\source\repos\ChillScheduleApp\ChillScheduleApp\obj\Debug\ChillScheduleApp.csproj.AssemblyReference.cache
+C:\Users\vladc\source\repos\ChillScheduleApp\ChillScheduleApp\obj\Debug\AddActivityWindow.baml
+C:\Users\vladc\source\repos\ChillScheduleApp\ChillScheduleApp\obj\Debug\MainWindow.baml
+C:\Users\vladc\source\repos\ChillScheduleApp\ChillScheduleApp\obj\Debug\AddActivityWindow.g.cs
+C:\Users\vladc\source\repos\ChillScheduleApp\ChillScheduleApp\obj\Debug\MainWindow.g.cs
+C:\Users\vladc\source\repos\ChillScheduleApp\ChillScheduleApp\obj\Debug\App.g.cs
+C:\Users\vladc\source\repos\ChillScheduleApp\ChillScheduleApp\obj\Debug\ChillScheduleApp_MarkupCompile.cache
+C:\Users\vladc\source\repos\ChillScheduleApp\ChillScheduleApp\obj\Debug\ChillScheduleApp.g.resources
+C:\Users\vladc\source\repos\ChillScheduleApp\ChillScheduleApp\obj\Debug\ChillScheduleApp.Properties.Resources.resources
+C:\Users\vladc\source\repos\ChillScheduleApp\ChillScheduleApp\obj\Debug\ChillScheduleApp.csproj.GenerateResource.cache
+C:\Users\vladc\source\repos\ChillScheduleApp\ChillScheduleApp\obj\Debug\ChillScheduleApp.csproj.CoreCompileInputs.cache
+C:\Users\vladc\source\repos\ChillScheduleApp\ChillScheduleApp\obj\Debug\ChillScheduleApp.exe
+C:\Users\vladc\source\repos\ChillScheduleApp\ChillScheduleApp\obj\Debug\ChillScheduleApp.pdb

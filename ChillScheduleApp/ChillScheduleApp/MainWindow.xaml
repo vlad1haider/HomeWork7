@@ -1,0 +1,27 @@
+﻿<Window x:Class="ChillScheduleApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Chill Schedule" Height="465" Width="691">
+    <Grid Margin="0,0,0,4">
+        <TextBlock Text="Привет, Чиловый парень! Какие у тебя планы на сегодня?" 
+                   FontSize="20" 
+                   HorizontalAlignment="Center" 
+                   Margin="0,10,0,360" Width="551"/>
+        <ListBox x:Name="ActivitiesListBox" 
+                 Margin="96,50,0,107" 
+                 HorizontalAlignment="Left" 
+                 Width="488"/>
+        <Button Content="Добавить активность" 
+                HorizontalAlignment="Left" 
+                VerticalAlignment="Top" 
+                Width="128" 
+                Margin="155,365,0,0" 
+                Click="AddActivityButton_Click" Height="30"/>
+        <Button Content="Удалить активность" 
+                HorizontalAlignment="Left" 
+                VerticalAlignment="Top" 
+                Width="124" 
+                Margin="425,365,0,0" 
+                Click="DeleteActivityButton_Click" Height="30"/>
+    </Grid>
+</Window>
